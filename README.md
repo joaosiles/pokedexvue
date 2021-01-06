@@ -5,7 +5,9 @@ Projeto para aprendizado de VueJS
 # Tecnologias
 
 **Vue.js**
+
 **Bulma** - CSS
+
 **Axios** - Requisições HTTP
 
 ## Project setup  
